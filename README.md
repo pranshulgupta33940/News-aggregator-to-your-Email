@@ -5,7 +5,7 @@
 **An intelligent news aggregation system that scrapes AI news from multiple sources, processes them with AI, and delivers personalized digests to your email.**
 
 [![Python Version](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)](https://github.com/pranshulgupta33940/News-aggregator-to-your-Email)
 
 [Features](#-features) • [Quick Start](#-quick-start) • [Installation](#-installation) • [Usage](#-usage) • [Configuration](#-configuration) • [Architecture](#-architecture)
