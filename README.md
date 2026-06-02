@@ -1,4 +1,4 @@
-# 📰 AI News Aggregator to Your Email
+#  AI News Aggregator to Your Email
 
 <div align="center">
 
@@ -14,19 +14,19 @@
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 **AI News Aggregator** is an automated system that:
-- 🔍 **Scrapes** AI-related news from multiple sources (YouTube, OpenAI, Anthropic)
-- 🧠 **Processes** content using AI (transcripts, markdown, article summaries)
-- 📊 **Creates** intelligent digests with top stories
-- 📧 **Delivers** curated news directly to your email inbox
+-  **Scrapes** AI-related news from multiple sources (YouTube, OpenAI, Anthropic)
+-  **Processes** content using AI (transcripts, markdown, article summaries)
+-  **Creates** intelligent digests with top stories
+-  **Delivers** curated news directly to your email inbox
 
 Perfect for staying updated on the latest developments in Artificial Intelligence without information overload!
 
 ---
 
-## ✨ Features
+##  Features
 
 <table>
 <tr>
@@ -41,7 +41,7 @@ Perfect for staying updated on the latest developments in Artificial Intelligenc
 </td>
 <td>
 
-### 🤖 AI-Powered Processing
+###  AI-Powered Processing
 - Intelligent content curation
 - Transcript extraction & analysis
 - Automatic digest generation
@@ -52,7 +52,7 @@ Perfect for staying updated on the latest developments in Artificial Intelligenc
 <tr>
 <td>
 
-### 💾 Data Management
+###  Data Management
 - PostgreSQL database
 - Structured data models
 - Full audit trail
@@ -61,7 +61,7 @@ Perfect for staying updated on the latest developments in Artificial Intelligenc
 </td>
 <td>
 
-### 📧 Email Delivery
+###  Email Delivery
 - Automated scheduling
 - HTML formatted digests
 - Personalized content
@@ -72,7 +72,7 @@ Perfect for staying updated on the latest developments in Artificial Intelligenc
 <tr>
 <td>
 
-### 🐳 Docker Support
+###  Docker Support
 - Containerized setup
 - Docker Compose ready
 - Production-ready config
@@ -81,7 +81,7 @@ Perfect for staying updated on the latest developments in Artificial Intelligenc
 </td>
 <td>
 
-### 🛠️ Developer Friendly
+###  Developer Friendly
 - Clean architecture
 - Well-organized modules
 - Configuration management
@@ -93,7 +93,7 @@ Perfect for staying updated on the latest developments in Artificial Intelligenc
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.12+
@@ -126,7 +126,7 @@ docker-compose up -d
 
 ---
 
-## 📥 Installation
+##  Installation
 
 ### Standard Installation
 
@@ -174,7 +174,7 @@ docker-compose up -d
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 ### Environment Variables (`.env`)
 
@@ -228,7 +228,7 @@ Or use `app/daily_runner.py` with a scheduler like APScheduler.
 
 ---
 
-## 📖 Usage
+##  Usage
 
 ### Run the Complete Pipeline
 
@@ -280,7 +280,7 @@ print(result)
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ### Project Structure
 
@@ -376,7 +376,7 @@ ai-news-aggregator/
 
 ---
 
-## 🔌 Key Dependencies
+##  Key Dependencies
 
 | Package | Purpose |
 |---------|---------|
@@ -391,7 +391,7 @@ ai-news-aggregator/
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Database Connection Issues
 
@@ -431,7 +431,7 @@ DEBUG=1 python main.py
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here's how to help:
 
@@ -466,7 +466,7 @@ black app/
 
 ---
 
-## 📋 Roadmap
+##  Roadmap
 
 - [ ] Multi-language support
 - [ ] Custom digest templates
@@ -479,7 +479,7 @@ black app/
 
 ---
 
-## ❓ FAQ
+##  FAQ
 
 **Q: How often should I run the pipeline?**  
 A: Recommended daily. Use cron or a task scheduler for automation.
@@ -498,23 +498,15 @@ A: Yes, use Docker + Kubernetes or multiple Docker hosts with shared database.
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 Author
+##  Author
 
 **Pranshul Gupta**
 - GitHub: [@pranshulgupta33940](https://github.com/pranshulgupta33940)
-- Email: pranshulgupta33940@gmail.com
+
 
 ---
 
-## 🌟 Show Your Support
-
-If you found this project helpful, please give it a ⭐️ on GitHub!
 
 ---
 
